@@ -59,8 +59,12 @@ This is a **Streamlit-based stock prediction application** that uses **Linear Re
 ├── app.py                 # Main application script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
+<<<<<<< HEAD
 ├── assets/                # Contains CSS and additional resources
 └── nifty_stocks.json      # JSON file for Nifty stock configurations
+=======
+
+>>>>>>> 6ff8fb9c9db8b73cdcb615de4748b882243f5300
 ```
 
 ---
@@ -98,4 +102,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
+<<<<<<< HEAD
 This project is open-source and available under the MIT License.  
+=======
+This project is open-source and available under the MIT License.  
+>>>>>>> 6ff8fb9c9db8b73cdcb615de4748b882243f5300
