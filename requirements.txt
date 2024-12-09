@@ -1,0 +1,9 @@
+streamlit
+requests
+wordcloud
+textblob
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
