@@ -64,7 +64,6 @@ This is a **Streamlit-based stock prediction application** that uses **Linear Re
 └── nifty_stocks.json      # JSON file for Nifty stock configurations
 =======
 
->>>>>>> 6ff8fb9c9db8b73cdcb615de4748b882243f5300
 ```
 
 ---
